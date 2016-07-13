@@ -7,3 +7,8 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+1. I've learned to use the strong and em tags. I've also learned that strike is apparently out of use(haha, whoops!)
+2. I've been programming in HTML for users so it's been easy to add new tags to my repertoire. 
+3. It's difficult, I think, for anyone to become rigid when it comes to organizing code. I typically just throw it into dirtymarkup.com, but for Udacity I'm making an effort to do it manually! :)
+4. Really when it comes down to it, the basic problem solving strategy is just to persevere. For instance, I messed up by not reading all the instructions(and I'll probably do that again by mistake haha. It's 12am and I've been working all day so my brain's a little fried :) ), but I resolve to finish this nanodegree asap, and I strive to fix any mistakes as quickly as possible. So far Udacity's been wonderful. I can't believe someone's reviewing my work 20 minutes after completion. I find that to be quite excellent.
